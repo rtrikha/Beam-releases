@@ -4,11 +4,11 @@
         <title>Beam</title>
         <item>
             <title>2.2</title>
-            <pubDate>Wed, 29 Apr 2026 20:09:22 +0530</pubDate>
-            <sparkle:version>4</sparkle:version>
+            <pubDate>Wed, 29 Apr 2026 21:25:55 +0530</pubDate>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rtrikha/Beam-releases/releases/download/v2.2-build-4/Beam-2.2-build-4.dmg" length="3608860" type="application/octet-stream" sparkle:edSignature="fO/K5ouX5FV72D1WlO3DBkPLizCvIqc9U6QmyhcSMGV5/oNCTeGcwW8DTSkKIrzNKF97Eg8HA2ZwNXv/h5LTDw=="/>
+            <sparkle:minimumSystemVersion>15.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rtrikha/Beam-releases/releases/download/v2.2-build-5/Beam-2.2-build-5.dmg" length="3614432" type="application/octet-stream" sparkle:edSignature="82j5I6pmCRmu460DY7IO8gw6Mu1mhbX63eQcT5Xj3mHQ2g0qUYsTWZDpEX0hYjxgootZUnKNrkBlU/J7+UhKAg=="/>
         </item>
     </channel>
 </rss>
