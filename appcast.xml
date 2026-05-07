@@ -4,11 +4,11 @@
         <title>Beam</title>
         <item>
             <title>3.3</title>
-            <pubDate>Thu, 07 May 2026 12:03:33 +0530</pubDate>
-            <sparkle:version>10</sparkle:version>
+            <pubDate>Thu, 07 May 2026 14:31:10 +0530</pubDate>
+            <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rtrikha/Beam-releases/releases/download/v3.3-build-10/Beam-3.3-build-10.dmg" length="7179766" type="application/octet-stream" sparkle:edSignature="jyScjXaV1SltsbdSXBf/SJYxACAUy+FwGzj90uYPcYVzg4+RGfVywlpcZJ19uca7OEctU2qs4SG/x8gw8ynhAg=="/>
+            <enclosure url="https://github.com/rtrikha/Beam-releases/releases/download/v3.3-build-11/Beam-3.3-build-11.dmg" length="7180564" type="application/octet-stream" sparkle:edSignature="McpnNCeQLy4zXoxaGW6bKithxnJ3semdbul0+fcJjugK4Um5/ojYCP+mw0kwXqkD3wJdxNx/hkfOOTXH7+MzCg=="/>
         </item>
     </channel>
 </rss>
